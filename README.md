@@ -1,2 +1,2 @@
 # Repositório do Ajuda para Incluir
-Repositório de criação.
+Repositório em criação.
